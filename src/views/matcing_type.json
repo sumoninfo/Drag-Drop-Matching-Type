@@ -1,0 +1,41 @@
+{
+  "id": 852347,
+  "title": "text to text",
+  "description": "<p>xfgdfgdfg</p>",
+  "question_type": "matching_type",
+  "sub_type": "text_to_text",
+  "image_full_url": null,
+  "audio_full_url": null,
+  "video_link": null,
+  "video_file": null,
+  "answer_list": [
+    {
+      "id": 2564279,
+      "is_correct": "Dhaka "
+    },
+    {
+      "id": 2564280,
+      "is_correct": "68"
+    }
+  ],
+  "student_exam_question_answers": [
+    {
+      "id": 2564279,
+      "title": "What is the capital of Bangladesh ?",
+      "is_correct": "Dhaka ",
+      "given_answer": [],
+      "score": 2.5,
+      "answer_full_url": "http://127.0.0.1:8000/storage/correct ",
+      "correct_full_url": "http://127.0.0.1:8000/storage/correct -ans "
+    },
+    {
+      "id": 2564280,
+      "title": "How many district in Bangladesh ?",
+      "is_correct": "68",
+      "given_answer": [],
+      "score": 2.5,
+      "answer_full_url": "http://127.0.0.1:8000/storage/correct -2 ",
+      "correct_full_url": "http://127.0.0.1:8000/storage/correct-2 ans "
+    }
+  ]
+}
